@@ -1,4 +1,4 @@
-<h2 align="center">I am second year student, studying in Petro Mohyla Black Sea National University.</h2>
+<h1 align="center">I am second year student, studying in Petro Mohyla Black Sea National University.</h2>
 <p align="center">I have found myself being a full-stack developer, so I am putting all my efforts right now to dig more into web-developing!</p>
 
 ###
