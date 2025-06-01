@@ -23,10 +23,10 @@
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       <img width="12" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+      <img width="12" />
     </div>
     <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-      <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -42,16 +42,20 @@
   <img src="./recent_projects.png" alt="recent logo"  />
 
   ###
-  <h3 align='left'>C#</h3>
-  <ul>
-    <li><a href="https://github.com/YehorBelyi/TestingApp">Application for examinating students, using WinForms and EntityFrameworkCore</a></li>
-    <li><a href="https://github.com/YehorBelyi/Cars-With-Api">React.js + WebAPI project, MSSQL included</a></li>
-  </ul>
+  <div align='left'>
+    <h3 align='left'>C#</h3>
+    <ul>
+      <li><a href="https://github.com/YehorBelyi/TestingApp">Application for examinating students, using WinForms and EntityFrameworkCore</a></li>
+      <li><a href="https://github.com/YehorBelyi/Cars-With-Api">React.js + WebAPI project, MSSQL included</a></li>
+    </ul>
+  </div>
 
-  <h3 align='left'>Python</h3>
-  <ul>
-    <li><a href="https://github.com/YehorBelyi/TestingApp">Online sneakers shop in Telegram-bot (Aiogram, SQLAlchemy, Redis, Docker)</a></li>
-  </ul>
+  <div align='left'>
+    <h3 align='left'>Python</h3>
+    <ul>
+      <li><a href="https://github.com/YehorBelyi/TestingApp">Online sneakers shop in Telegram-bot (Aiogram, SQLAlchemy, Redis, Docker)</a></li>
+    </ul>
+  </div>
 
   ###
 
