@@ -65,8 +65,8 @@
   ###
 
   <div align="center">
-    <img src="./instagram.png" alt="instagram logo"  />
-    <img src="./linkedin.png" alt="lindedin logo"  />
+    <img src="./instagram.png" alt="instagram logo" height="30" width="30" />
+    <img src="./linkedin.png" alt="lindedin logo" height="30" width="30"/>
   </div>
 
   ###
