@@ -38,11 +38,17 @@
   <img src="./recent_projects.png" alt="recent logo"  />
 
   ###
-
+  <h3 align='left'>C#</h3>
   <ul>
-    <li><a href="https://github.com/YehorBelyi/TestingApp">Application for examinating students, using C# and EntityFrameworkCore</a></li>
+    <li><a href="https://github.com/YehorBelyi/TestingApp">Application for examinating students, using WinForms and EntityFrameworkCore</a></li>
+    <li><a href="https://github.com/YehorBelyi/Cars-With-Api">React.js + WebAPI project, MSSQL included</a></li>
   </ul>
 
+  <h3 align='left'>Python</h3>
+  <ul>
+    <li><a href="https://github.com/YehorBelyi/TestingApp">Online sneakers shop in Telegram-bot (Aiogram, SQLAlchemy, Redis, Docker)</a></li>
+  </ul>
+  
   ###
 
   <h3 align="left">🔥   My Stats :</h3>
