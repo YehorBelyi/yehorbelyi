@@ -1,8 +1,8 @@
 <div align="center">
     <img src="./fullstack_developer.png" alt="fullstack logo"  />
-    <h3>📝 Just an ordinary student, who is currently studying at Petro Mohyla Black Sea National University</h3>
-    <h3>👥 A sociable person, who enjoys talking to people and working in a team!</h3>
-    <h3>✨ A hard-working individual - no matter how difficult the path, I'm determined to achieve my goals!</h3>
+    <p align="left">📝 Just an ordinary student, who is currently studying at Petro Mohyla Black Sea National University</p>
+    <p align="left">👥 A sociable person, who enjoys talking to people and working in a team!</p>
+    <p align="left">✨ A hard-working individual - no matter how difficult the path, I'm determined to achieve my goals!</p>
 
   ###
 
