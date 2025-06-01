@@ -67,6 +67,7 @@
   <div align="center">
     <a><img src="./instagram.png" alt="instagram logo" height="60" width="60" /></a>
     <a><img src="./linkedin.png" alt="lindedin logo" height="60" width="60"/></a>
+    <a><img src="./twitter.png" alt="twitter logo" height="60" width="60"/></a>
   </div>
 
   ###
