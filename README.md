@@ -5,7 +5,7 @@
 
   ###
 
-  <img src="./tech-stack.png" alt="fullstack logo"  />
+  <img src="./tech-stack.png" alt="tech logo"  />
 
   ###
 
@@ -35,17 +35,13 @@
 
   ###
 
-  <h3 align="left">🛠 IDE's, which I use</h3>
+  <img src="./recent_projects.png" alt="recent logo"  />
 
   ###
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  </div>
+  <ul>
+    <li><a href="https://github.com/YehorBelyi/TestingApp">Application for examinating students, using C# and EntityFrameworkCore</a></li>
+  </ul>
 
   ###
 
