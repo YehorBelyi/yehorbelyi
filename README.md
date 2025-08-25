@@ -54,7 +54,8 @@
   <div align='left'>
     <h3 align='left'>Python</h3>
     <ul>
-      <li><a href="https://github.com/YehorBelyi/TestingApp">Online sneakers shop in Telegram-bot (Aiogram, SQLAlchemy, Redis, Docker)</a></li>
+      <li><a href="https://github.com/YehorBelyi/SapphireBot">Online sneakers shop in Telegram-bot (Aiogram, SQLAlchemy, Redis, Docker)</a></li>
+      <li><a href="https://github.com/YehorBelyi/product-service">go&buy, ebay clone (Django, Bootstrap)</a></li>
     </ul>
   </div>
 
