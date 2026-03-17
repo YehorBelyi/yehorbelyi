@@ -37,28 +37,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
     </div>
   </div>
-
-  ###
-
-  <img src="./recent_projects.png" alt="recent logo"  />
-
-  ###
-  <div align='left'>
-    <h3 align='left'>C#</h3>
-    <ul>
-      <li><a href="https://github.com/YehorBelyi/TestingApp">Application for examinating students, using WinForms and EntityFrameworkCore</a></li>
-      <li><a href="https://github.com/YehorBelyi/Cars-With-Api">React.js + WebAPI project, MSSQL included</a></li>
-    </ul>
-  </div>
-
-  <div align='left'>
-    <h3 align='left'>Python</h3>
-    <ul>
-      <li><a href="https://github.com/YehorBelyi/SapphireBot">Online sneakers shop in Telegram-bot (Aiogram, SQLAlchemy, Redis, Docker)</a></li>
-      <li><a href="https://github.com/YehorBelyi/product-service">go&buy, ebay clone (Django, Bootstrap)</a></li>
-    </ul>
-  </div>
-
+ 
   ###
 
   <img src="./socials.png" alt="recent logo"  />
